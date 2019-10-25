@@ -14,7 +14,7 @@ As part of an Inception we basically need to answer the following questions:
 
 As part of answering these questions we will create a range of artefacts. These will help us with two things:
 
-> ### An Inception is not waterfall. Nevertheless, some plan and cost will be required to allow the team to know what to do next, manage resourcing and other dependencies, and, of course allow the client to make a cost-value-based judgement call.
+> ### _An Inception is not waterfall. Nevertheless, some plan and cost will be required to allow the team to know what to do next, manage resourcing and other dependencies, and, of course allow the client to make a cost-value-based judgement call._
 
 ## **Making the call: should we proceed?**
 
@@ -36,5 +36,7 @@ If we decide that it is the right thing to proceed with implementation, we will 
 
 These deliverables will be reasonably high level with just enough detail to make the call and shape overall deliver \(with maybe some more detail for the very first iteration so we can get ‘right into it’\).
 
-We have outlined an artefact overview in the following section. 
+{% hint style="info" %}
+We have outlined an artefact overview in the following section.
+{% endhint %}
 

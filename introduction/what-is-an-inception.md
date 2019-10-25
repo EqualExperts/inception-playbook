@@ -10,7 +10,7 @@ An Inception is a set of pre-delivery activities run collaboratively with cross-
 
 This range of activities includes \(but is not limited to\) validating and aligning on expected outcomes; clarifying scope; identifying dependencies; defining ways of working; exploring technical feasibility; and planning the subsequent delivery.
 
-> ### The purpose of an Inception is to de-risk delivery by making sure you know what you are doing, you are doing it in the right way and have everything in place so you can hit the ground running.
+> ### _The purpose of an Inception is to de-risk delivery by making sure you know what you are doing, you are doing it in the right way and have everything in place so you can hit the ground running._
 
 Ambitious initiatives need teams to work together well, and Inceptions are often the first opportunity a team has to meet: whether it’s the first time a client meets its supplier teams, or a distributed team coming together. 
 

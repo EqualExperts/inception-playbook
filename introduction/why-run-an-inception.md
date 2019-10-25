@@ -14,7 +14,7 @@ The common root causes? Misaligned values and expectations, overlooked risks, mi
 
 The most frustrating thing is when that pain could have easily been avoided. The complex interplay of people, processes and technology will always bring change, uncertainty and unknowns. By acknowledging and addressing these factors early, we can massively reduce the various types of risks we’re exposed to.
 
-> ### Technology initiatives, if done in the right way, can be successful and fun.
+> ### _Technology initiatives, if done in the right way, can be successful and fun._
 
 **This is why we run Inceptions.** They systematically address the issues that threaten to derail delivery, by reducing risk, fostering alignment, building  trust and providing us with the best possible starting point.
 
