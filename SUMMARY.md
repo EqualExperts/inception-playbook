@@ -16,10 +16,12 @@
   * [Design Inception Agenda](untitled/design-inception-agenda.md)
   * [How we do it](untitled/how-we-do-it.md)
   * [Inception Agenda Blueprint](untitled/inception-agenda-blueprint.md)
+  * [Blueprint in a table](untitled/untitled.md)
 * [Cheat sheets](cheat-sheets.md)
 * [Deep dives](deep-dives.md)
 * [Closing thoughts](closing-thoughts.md)
 * [Contributions](contributions/README.md)
   * [The Authors](contributions/the-authors.md)
   * [Special Thanks](contributions/special-thanks.md)
+* [Untitled](untitled-1.md)
 
