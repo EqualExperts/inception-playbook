@@ -14,6 +14,8 @@
   * [Set-up](untitled/set-up.md)
   * [Design](untitled/design.md)
   * [Design Inception Agenda](untitled/design-inception-agenda.md)
+  * [How we do it](untitled/how-we-do-it.md)
+  * [Inception Agenda Blueprint](untitled/inception-agenda-blueprint.md)
 * [Cheat sheets](cheat-sheets.md)
 * [Deep dives](deep-dives.md)
 * [Closing thoughts](closing-thoughts.md)

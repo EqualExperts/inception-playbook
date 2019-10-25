@@ -35,6 +35,6 @@ Finally we formulate our recommendation \(of whether / how to proceed\). Where w
 * How do we deliver?
 
 {% hint style="info" %}
-Arguably the most important artefacts are those marked with the star. Note, that this diagram shows the logical flow, not all or exact steps or artefacts that one may encounter during an actual Inception. The Inception Agenda Blueprint.
+Arguably the most important artefacts are those marked with the star. Note, that this diagram shows the logical flow, not all or exact steps or artefacts that one may encounter during an actual Inception. 
 {% endhint %}
 
