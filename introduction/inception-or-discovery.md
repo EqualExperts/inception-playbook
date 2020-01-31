@@ -12,7 +12,7 @@ For the purpose of this playbook, we’ll take it that Discovery activities have
 
 ## **Timing**
 
-While we run Inceptions at the start of something new, we may also run one at pivotal points – say, when a new phase kicks off, or there’s a significant shift in context. For example, we’ve run Inceptions as input into a business case, as part of a pitch, to start  an client engagement or internal initiative, a new feture or work phase, or as a sense-check and re-alignment activity where overall strategy or circumstances had chnaged.
+While we run Inceptions at the start of something new, we may also run one at pivotal points – say, when a new phase kicks off, or there’s a significant shift in context. For example, we’ve run Inceptions as input into a business case, as part of a pitch, to start a client engagement or internal initiative, a new feature or work phase, or as a sense-check and re-alignment activity where overall strategy or circumstances had changed.
 
 ## **Inceptions are versatile**
 
@@ -24,12 +24,12 @@ In this playbook, we have a bias towards initiatives with a strong element of so
 
 ## **Inception  vs. Discovery**
 
-We start with an idea, problem or opportunity, refine this and ensure ‘that we are doing the right thing’ in Discovery, align on what to do and define how to do it in Inception, ensuring ‘that we are doing it right’, and create, impelment, operate and improve the solution during Delivery.
+We start with an idea, problem or opportunity.  We refine this and ensure ‘that we are doing the right thing’ in Discovery, then align on what to do and define how to do it in Inception - ensuring ‘that we are doing it right’.  We then create, implement, operate and improve the solution during Delivery.
 
 ![](../.gitbook/assets/illustrations-03.png)
 
 This approach allows us to minimise risk \(resulting from high degrees of \(early\) uncertainty \(late\) changes.
 
-It is important to remember that this, while being in stages, is in no means ‘waterfall’, as we work iteratively, incrementally and breadth over depth.  
+It is important to remember that this, while being in stages, is in no means ‘waterfall’, as we work iteratively, incrementally and favour breadth over depth.  
 
 
