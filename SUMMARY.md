@@ -23,5 +23,4 @@
 * [Contributions](contributions/README.md)
   * [The Authors](contributions/the-authors.md)
   * [Special Thanks](contributions/special-thanks.md)
-* [Untitled](untitled-1.md)
 

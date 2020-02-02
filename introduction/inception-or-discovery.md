@@ -18,18 +18,15 @@ While we run Inceptions at the start of something new, we may also run one at pi
 
 In this playbook, we have a bias towards initiatives with a strong element of software application development. That’s simply because that’s what we do, and where we have run Inceptions successfully. However, it’s worth remembering that Inceptions can be run for many other types of initiative in much the same way as suggested here.
 
-
-
 > ### _NB. While this version of the playbook focuses on Inceptions, we may extend it to Discoveries in the future._
 
 ## **Inception  vs. Discovery**
 
-We start with an idea, problem or opportunity.  We refine this and ensure ‘that we are doing the right thing’ in Discovery, then align on what to do and define how to do it in Inception - ensuring ‘that we are doing it right’.  We then create, implement, operate and improve the solution during Delivery.
+We start with an idea, problem or opportunity. We refine this and ensure ‘that we are doing the right thing’ in Discovery, then align on what to do and define how to do it in Inception - ensuring ‘that we are doing it right’. We then create, implement, operate and improve the solution during Delivery.
 
 ![](../.gitbook/assets/illustrations-03.png)
 
 This approach allows us to minimise risk \(resulting from high degrees of \(early\) uncertainty \(late\) changes.
 
-It is important to remember that this, while being in stages, is in no means ‘waterfall’, as we work iteratively, incrementally and favour breadth over depth.  
-
+It is important to remember that this, while being in stages, is in no means ‘waterfall’, as we work iteratively, incrementally and favour breadth over depth.
 

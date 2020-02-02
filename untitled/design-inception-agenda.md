@@ -2,8 +2,6 @@
 
 As mentioned earlier, a good Agenda has a narrative, a logical flow whereby we conduct activities that give us insight to ultimately fulfil the goals of the Inception:
 
-
-
 ![](../.gitbook/assets/illustrations-09.png)
 
 ## **1 - Understand the problem / opportunity**
@@ -35,6 +33,6 @@ Finally we formulate our recommendation \(of whether / how to proceed\). Where w
 * How do we deliver?
 
 {% hint style="info" %}
-Arguably the most important artefacts are those marked with the star. Note, that this diagram shows the logical flow, not all or exact steps or artefacts that one may encounter during an actual Inception. 
+Arguably the most important artefacts are those marked with the star. Note, that this diagram shows the logical flow, not all or exact steps or artefacts that one may encounter during an actual Inception.
 {% endhint %}
 

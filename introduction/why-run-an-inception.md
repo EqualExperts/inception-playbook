@@ -16,14 +16,11 @@ The most frustrating thing is when that pain could have easily been avoided. The
 
 > ### _Technology initiatives, if done in the right way, can be successful and fun._
 
-**This is why we run Inceptions.** They systematically address the issues that threaten to derail delivery, by reducing risk, fostering alignment, building  trust and providing us with the best possible starting point.
+**This is why we run Inceptions.** They systematically address the issues that threaten to derail delivery, by reducing risk, fostering alignment, building trust and providing us with the best possible starting point.
 
 Of course, knowing why you might want to run an Inception is not the same as being able to run an effective one! This is where this Playbook comes in.
 
 We believe it’s possible to distil the essence of an Inception into a blueprint. This document is that blueprint.
 
-By taking away some of the complexity and providing ideas to riff off and make your own, this playbook aims to support beginners and experts alike. Over the pages that follow, you’ll find the tools to build better foundations for the initiatives you work on.  
-
-
-
+By taking away some of the complexity and providing ideas to riff off and make your own, this playbook aims to support beginners and experts alike. Over the pages that follow, you’ll find the tools to build better foundations for the initiatives you work on.
 

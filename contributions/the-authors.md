@@ -2,7 +2,7 @@
 
 ## **Neha Datt**
 
-Neha loves understanding problems, learning new things and working with good people. 
+Neha loves understanding problems, learning new things and working with good people.
 
 Her background in digital delivery has been varied \(strategy, product, design, delivery, coach, trainer\) across a range of industries and organisations ranging from startups to enterprises.
 
@@ -21,14 +21,13 @@ He shares work related thoughts on his blog www.thedigitalbusinessanalyst.com an
 Outside of work he is interested in SciFi and Graphic Novels, Theravada Buddhist meditation and more recently digital ethics.
 
 He is a member of the Equal Experts network and can best be reached via  
- www.beautifulabstraction.com.  
-
+www.beautifulabstraction.com.
 
 ## Dave Hewett
 
 Dave Hewett is a Partner at Equal Experts, Engagement Manager and maker of coffee; born in New Zealand he has been living and working in London for 25 years. He started his career in enterprise IT and moved into software consulting, helping create bespoke software for a wide variety of clients across a wide variety of industry sectors including finance, commodities trading, telecoms and retail.
 
-His time at Equal Experts has put him in the privileged position of working with many smart and engaging people. This environment has continually challenged his pre-conceptions and help him learn and improve his craft. 
+His time at Equal Experts has put him in the privileged position of working with many smart and engaging people. This environment has continually challenged his pre-conceptions and help him learn and improve his craft.
 
 He can best be contacted at dhewett@equalexperts.com.
 
