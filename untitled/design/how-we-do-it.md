@@ -1,4 +1,4 @@
-# How we-do it
+# How we do it
 
 ## 1- IDENTIFY THE ACTIVITIES AND EXPECTED OUTCOMES
 
