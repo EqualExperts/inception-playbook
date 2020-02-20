@@ -10,7 +10,7 @@
   * [Inception or Discovery?](introduction/inception-or-discovery.md)
   * [Getting buy-in](introduction/untitled-1.md)
   * [What does good look like?](introduction/what-does-good-look-like.md)
-* [Run an Inception](untitled/README.md)
+* [Run an Inceptions](untitled/README.md)
   * [Overview](untitled/overview.md)
   * [Set-up \(add links\)](untitled/set-up.md)
   * [Design](untitled/design/README.md)
