@@ -8,7 +8,7 @@
   * [What’s the outcome of an Inception?](introduction/whats-the-outcome-of-an-inception.md)
   * [Inception Complete, What now?](introduction/inception-complete-what-now.md)
   * [Inception or Discovery?](introduction/inception-or-discovery.md)
-  * [Getting buy-in](introduction/untitled-1.md)
+  * [Getting buy-in](introduction/getting-buy-in.md)
   * [What does good look like?](introduction/what-does-good-look-like.md)
 * [Run an Inceptions](run-an-inception/README.md)
   * [Overview](run-an-inception/overview.md)
