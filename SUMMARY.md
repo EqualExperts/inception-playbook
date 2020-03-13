@@ -17,7 +17,7 @@
     * [Design inception agenda](run-an-inception/design/design-inception-agenda.md)
     * [How we do it](run-an-inception/design/how-we-do-it.md)
     * [Inception agenda blueprint](run-an-inception/design/inception-agenda-blueprint.md)
-    * [Blueprint in a table](run-an-inception/design/untitled.md)
+    * [Blueprint in a table](run-an-inception/design/blueprint-in-a-table.md)
   * [Plan](run-an-inception/planning/README.md)
     * [Creating a schedule](run-an-inception/planning/creating-a-schedule.md)
     * [Example inception schedule](run-an-inception/planning/example-inception-schedule.md)

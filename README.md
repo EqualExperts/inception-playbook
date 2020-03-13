@@ -1,5 +1,9 @@
 # Inceptions
 
+This Inception playbook takes learnings from a variety of [**Equal Experts**](www.equalexperts.com) ****consultants who have spent time running inceptions for a varity of clients.  **If you would like talk to us about running an inception** [**get in touch**](https://www.equalexperts.com/contact-us/) **with our teams across the world.**   
+
+![](.gitbook/assets/equal_experts_mark_rgb_blue_circle-598x598-cce7982.jpg)
+
 ## Better outcomes
 
 At Equal Experts, we’re passionate about building great software. For over 10 years, we have helped hundreds of clients around the globe, from blue chip clients to startups, both build the product right and build the right product.
