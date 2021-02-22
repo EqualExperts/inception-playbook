@@ -8,7 +8,7 @@ This Inception playbook takes learnings from a variety of [**Equal Experts**](ww
 
 At Equal Experts, we’re passionate about building great software. For over 10 years, we have helped hundreds of clients around the globe, from blue chip clients to startups, both build the product right and build the right product.
 
-Collectively, the contributors to this playbook have some 500 years of software delivery experience. But starting something new always has its challenges, and we’ve experienced the joy when things work out, but also the pain when things go a bit pear-shaped.
+Collectively, the contributors to this playbook have some 500 years of software delivery experience. But starting something new always has its challenges, and we’ve experienced the pain when things work out, but also when things go a bit pear-shaped.
 
 The common root causes? Misaligned values and expectations, overlooked risks, missed dependencies and unsophisticated approaches to managing uncertainty and complexity.
 
